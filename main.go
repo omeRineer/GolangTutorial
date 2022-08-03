@@ -1,7 +1,9 @@
 package main
 
-import "golesson/chapter3"
+import (
+	"golesson/chapter4"
+)
 
 func main() {
-	chapter3.InterfaceDemo()
+	chapter4.WaitGroupDemo()
 }
